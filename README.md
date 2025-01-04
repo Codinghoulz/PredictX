@@ -5,7 +5,6 @@
 - *Linear Regression*  
 - *Logistic Regression*  
 - *Polynomial Regression*  
-- *Decision Trees*  
 - *K-Nearest Neighbors (KNN)*  
 - *K-Means Clustering*  
 
